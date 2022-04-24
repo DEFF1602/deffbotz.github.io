@@ -104,8 +104,8 @@ function waitAndResponce(inputText) {
         case "projects":
             sendTextMessage("You want to check my projects? Then just jump into my Github Account.<br><br><div class='social'><a target='_blank' href='https://github.com/DEFF1602'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a></div>");
             break;
-        case "new":
-            sendTextMessage(addressString);
+        case "V3":
+            sendTextMessage("Sc V3? in here);
             break;
         default:
             setTimeout(() => {
